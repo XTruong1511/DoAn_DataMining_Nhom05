@@ -1,0 +1,32 @@
+{
+  "Linear Regression": {
+    "mae": 2.38,
+    "rmse": 4.16,
+    "r2": 0.5747,
+    "mape": 14.1
+  },
+  "Random Forest": {
+    "mae": 1.27,
+    "rmse": 2.15,
+    "r2": 0.887,
+    "mape": 8.1
+  },
+  "XGBoost": {
+    "mae": 1.2,
+    "rmse": 2.15,
+    "r2": 0.8866,
+    "mape": 7.8
+  },
+  "LightGBM": {
+    "mae": 1.32,
+    "rmse": 2.18,
+    "r2": 0.8837,
+    "mape": 8.2
+  },
+  "Gradient Boosting": {
+    "mae": 1.28,
+    "rmse": 2.16,
+    "r2": 0.8853,
+    "mape": 8.1
+  }
+}

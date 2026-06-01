@@ -1,0 +1,37 @@
+# Core scientific computing
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+mlxtend
+
+# Visualization
+matplotlib
+seaborn
+plotly
+wordcloud
+
+# NLP
+nltk
+regex
+
+# Web frameworks
+fastapi
+uvicorn
+streamlit
+
+# Utilities
+joblib
+beautifulsoup4
+python-multipart
+pydantic
+pydantic-settings
+statsmodels
+
+# For Vietnamese NLP (optional - có thể bỏ qua nếu lỗi)
+# underthesea==6.7.6  # Có thể không tương thích 3.13
+# pyvi==0.1.0  # Có thể không tương thích 3.13
